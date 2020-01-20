@@ -14,7 +14,7 @@ Corresponder às expectativas e desenvolver de forma satisfatória todas as fun�
 
 # Formações
 - Técnica - Técnico em Informática - ETEC de Fernandópolis - Centro Paula Souza (2012)
-- Superior - Sistemas Para Internet - FATEC Jales - Centro Paula Souza(Concluído em 2015)
+- Superior - Sistemas Para Internet - FATEC Jales - Centro Paula Souza (Concluído em 2015)
 
 # Experiência Profissional
 
