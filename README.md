@@ -52,8 +52,3 @@ Corresponder às expectativas e desenvolver de forma satisfatória todas as fun�
 - APIs
 - SQL (MySQL, Oracle DB, PostgresSQL, FireBird)
 - Git
-
-# Projeto Paralelo - Illusion - Soluções Digitais
-- Illusion - https://illusionbr.com
-- Portal Ao Volante - https://portalaovolante.com/
-
