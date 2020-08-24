@@ -1,5 +1,5 @@
 # GABRIEL DIAS BARBOSA
-Brasileiro, casado, 24 anos
+Brasileiro, casado, 25 anos
 
 Fernandópolis, São Paulo, Brasil
 
@@ -7,7 +7,7 @@ Fones: (17) 99163-7682 (Whatsapp/Telegram)
 
 E-mail: gdiasb12@gmail.com 
 
-Skype: gdiasb12 
+Github: /gdiasb12 
 
 # Objetivo
 Corresponder às expectativas e desenvolver de forma satisfatória todas as funções a qual for solicitado com eficiência e profissionalismo.
@@ -43,7 +43,7 @@ Corresponder às expectativas e desenvolver de forma satisfatória todas as fun�
 
 # Habilidades
 - Inglês – Intermediário
-- 6+ anos de experiência com PHP
+- 8+ anos de experiência com PHP
 - Laravel Framework
 - Wordpress
 - HTML5
